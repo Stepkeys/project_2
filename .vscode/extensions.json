@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "ms-toolsai.datawrangler",
+        "guodongsun.vscode-git-cruise",
+        "github.codespaces",
+        "github.vscode-pull-request-github",
+        "henriquebruno.github-repository-manager",
+        "ms-toolsai.vscode-jupyter-cell-tags",
+        "ms-toolsai.jupyter-keymap",
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.vscode-jupyter-slideshow",
+        "ms-python.vscode-pylance",
+        "ms-python.debugpy",
+        "ms-python.vscode-python-envs"
+    ]
+}
